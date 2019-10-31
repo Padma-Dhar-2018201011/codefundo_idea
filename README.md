@@ -8,7 +8,7 @@ India witnesses almost every kind of climatic conditions throughout the year. Th
 
 We plan to develop a Machine Learning enabled application that would monitor the satellite imagery of flood-hit regions and compare them with past images, which would give an idea to people sitting at Control Towers/ Disaster Management Centres to formulate an effective evacuation plan so that flood-hit people can be relocated more efficiently in less time and minimize the loss done to them. We will utilize machine learning tools such as classifiers and convolutional neural networks to study and analyze the satellite imagery of flood-hit areas and develop algorithms to decide a better evacuation strategy which would guide us to plan our energy and resources wisely. 
 
-For example, consider the attached image on Kerala Floods released by NASA, the flooded areas are clearly visible. By utilizing more such but zoomed images from various sources, we can make our own dataset and test our model. If the results turn out to be good (which I am sure of), it would be a good addition to the safety of citizens.  
+For example, consider the attached image on Kerala Floods released by NASA, the flooded areas are clearly visible. By utilizing more such but zoomed images from various sources we can make our own dataset and test our model. If the results turn out to be good (which I am sure of), it would be a good addition to the safety of citizens.  
 
 
 -------
